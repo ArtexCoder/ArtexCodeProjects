@@ -26,7 +26,8 @@ li {
 
 .author {
   display: inline;
-  text-align: left;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .weather-app {
