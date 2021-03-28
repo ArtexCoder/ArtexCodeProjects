@@ -25,9 +25,8 @@ li {
 }
 
 .author {
-  display: block;
-  margin: 0 auto;
-  padding: 15px;
+  display: inline;
+  text-align: left;
 }
 
 .weather-app {
