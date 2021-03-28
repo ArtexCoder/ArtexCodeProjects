@@ -24,8 +24,17 @@ li {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .author {
-  display: inline;
+  display: block;
   text-align: center;
   margin: 0 auto;
 }
